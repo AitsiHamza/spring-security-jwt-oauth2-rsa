@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-03-09T12:11:02.075+00:00",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "path": "/dataTest"
+}

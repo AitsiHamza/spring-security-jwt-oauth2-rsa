@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-03-09T14:50:26.138+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/saveData"
+}

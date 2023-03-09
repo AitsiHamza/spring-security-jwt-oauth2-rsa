@@ -1,0 +1,9 @@
+{
+  "authorities": [
+    {
+      "authority": "SCOPE_USER"
+    }
+  ],
+  "username": "hamza",
+  "message": "hello"
+}

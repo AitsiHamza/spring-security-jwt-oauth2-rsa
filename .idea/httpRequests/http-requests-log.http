@@ -1,0 +1,589 @@
+POST http://localhost:8888/token
+Content-Type: test/plain
+Content-Length: 11
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+hamza
+hamza
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 29
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+username=hamza&paswword=hamza
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 29
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+username:hamza&paswword:hamza
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+userame=aitsi&password=aitsi
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+userame=aitsi&password=aitsi
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+userame=aitsi&password=aitsi
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+userame=aitsi&password=aitsi
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+userame=aitsi&password=aitsi
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+userame=aitsi&password=aitsi
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+userame=aitsi&password=aitsi
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+userame:aitsi&password:aitsi
+
+###
+
+POST http://localhost:8888/token
+Content-Type: text/plain
+Content-Length: 11
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+aitsi
+aitsi
+
+###
+
+POST http://localhost:8888/token/v2
+Content-Type: text/plain
+Content-Length: 11
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+aitsi
+aitsi
+
+<> 2023-03-09T215752.404.json
+
+###
+
+POST http://localhost:8888/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 29
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+username:aitsi&password:aitsi
+
+###
+
+POST http://localhost:8888/token/v2
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 29
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+username:aitsi&password:aitsi
+
+<> 2023-03-09T215623.404.json
+
+###
+
+POST http://localhost:8888/token/v2
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "aitsi",
+  "password": "aitsi"
+}
+
+<> 2023-03-09T213040.500.json
+
+###
+
+POST http://localhost:8888/token/v2
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "aitsi",
+  "password": "aitsi"
+}
+
+<> 2023-03-09T212833.500.json
+
+###
+
+POST http://localhost:8888/token/v2
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "hamza",
+  "password": "hamza"
+}
+
+<> 2023-03-09T212420.500.json
+
+###
+
+POST http://localhost:8888/token/v2
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 29
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+username:hamza&password:hamza
+
+###
+
+POST http://localhost:8888/token/v2
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 29
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+username:hamza&password:hamza
+
+###
+
+POST http://localhost:8888/savedData
+Content-Type: text/plain
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiYWl0c2kiLCJpYXQiOjE2NzgzNzM3MDYsInNjb3BlIjoiQURNSU4ifQ.oCMSBu4ZF3kblo1Ifc6efQasgH05fZp0SkO7EiO9dx4Gx_3QURkHcr4tA6HoRW5glQruzgyRy5lzpwVmIIVhN3x2hq2U0hJn3qdLsImIpK75J8F3i3g90CfprvjsS7IJ-99Iw_j_NuSsuBGUM3wk4dA1wyuys_YE3kYUGfKDOTdjR-0yAh3GAjZc6-oLFfx53qyAvxEFSdRjG2GAlqziekeCPuiygfgQZSY9bYVxf58kNsuiLheCf6UdfYDGyJ998oMNqVB5-IN7oByisV-u_6lm9kIygR3durQ1shXOdJ1ZSazry4E6BvlIrY3P_K9KzLzaKXg90tv333RD5po9WQ
+Content-Length: 9
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+yvayztdfd
+
+<> 2023-03-09T161044.200.json
+
+###
+
+POST http://localhost:8888/saveData
+Content-Type: text/plain
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiYWl0c2kiLCJpYXQiOjE2NzgzNzM3MDYsInNjb3BlIjoiQURNSU4ifQ.oCMSBu4ZF3kblo1Ifc6efQasgH05fZp0SkO7EiO9dx4Gx_3QURkHcr4tA6HoRW5glQruzgyRy5lzpwVmIIVhN3x2hq2U0hJn3qdLsImIpK75J8F3i3g90CfprvjsS7IJ-99Iw_j_NuSsuBGUM3wk4dA1wyuys_YE3kYUGfKDOTdjR-0yAh3GAjZc6-oLFfx53qyAvxEFSdRjG2GAlqziekeCPuiygfgQZSY9bYVxf58kNsuiLheCf6UdfYDGyJ998oMNqVB5-IN7oByisV-u_6lm9kIygR3durQ1shXOdJ1ZSazry4E6BvlIrY3P_K9KzLzaKXg90tv333RD5po9WQ
+Content-Length: 9
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+yvayztdfd
+
+<> 2023-03-09T161030.404.json
+
+###
+
+POST http://localhost:8888/saveData
+Content-Type: text/plain
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiYWl0c2kiLCJpYXQiOjE2NzgzNzM3MDYsInNjb3BlIjoiQURNSU4ifQ.oCMSBu4ZF3kblo1Ifc6efQasgH05fZp0SkO7EiO9dx4Gx_3QURkHcr4tA6HoRW5glQruzgyRy5lzpwVmIIVhN3x2hq2U0hJn3qdLsImIpK75J8F3i3g90CfprvjsS7IJ-99Iw_j_NuSsuBGUM3wk4dA1wyuys_YE3kYUGfKDOTdjR-0yAh3GAjZc6-oLFfx53qyAvxEFSdRjG2GAlqziekeCPuiygfgQZSY9bYVxf58kNsuiLheCf6UdfYDGyJ998oMNqVB5-IN7oByisV-u_6lm9kIygR3durQ1shXOdJ1ZSazry4E6BvlIrY3P_K9KzLzaKXg90tv333RD5po9WQ
+Content-Length: 9
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+yvayztdfd
+
+<> 2023-03-09T155649.200.json
+
+###
+
+POST http://localhost:8888/saveData
+Content-Type: text/plain
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiYWl0c2kiLCJpYXQiOjE2NzgzNzM3MDYsInNjb3BlIjoiQURNSU4ifQ.oCMSBu4ZF3kblo1Ifc6efQasgH05fZp0SkO7EiO9dx4Gx_3QURkHcr4tA6HoRW5glQruzgyRy5lzpwVmIIVhN3x2hq2U0hJn3qdLsImIpK75J8F3i3g90CfprvjsS7IJ-99Iw_j_NuSsuBGUM3wk4dA1wyuys_YE3kYUGfKDOTdjR-0yAh3GAjZc6-oLFfx53qyAvxEFSdRjG2GAlqziekeCPuiygfgQZSY9bYVxf58kNsuiLheCf6UdfYDGyJ998oMNqVB5-IN7oByisV-u_6lm9kIygR3durQ1shXOdJ1ZSazry4E6BvlIrY3P_K9KzLzaKXg90tv333RD5po9WQ
+Content-Length: 9
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+yvayztdfd
+
+<> 2023-03-09T155638.200.json
+
+###
+
+POST http://localhost:8888/saveData
+Content-Type: application/x-www-form-urlencoded
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiYWl0c2kiLCJpYXQiOjE2NzgzNzM3MDYsInNjb3BlIjoiQURNSU4ifQ.oCMSBu4ZF3kblo1Ifc6efQasgH05fZp0SkO7EiO9dx4Gx_3QURkHcr4tA6HoRW5glQruzgyRy5lzpwVmIIVhN3x2hq2U0hJn3qdLsImIpK75J8F3i3g90CfprvjsS7IJ-99Iw_j_NuSsuBGUM3wk4dA1wyuys_YE3kYUGfKDOTdjR-0yAh3GAjZc6-oLFfx53qyAvxEFSdRjG2GAlqziekeCPuiygfgQZSY9bYVxf58kNsuiLheCf6UdfYDGyJ998oMNqVB5-IN7oByisV-u_6lm9kIygR3durQ1shXOdJ1ZSazry4E6BvlIrY3P_K9KzLzaKXg90tv333RD5po9WQ
+Content-Length: 9
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+yvayztdfd
+
+<> 2023-03-09T155557.200.json
+
+###
+
+POST http://localhost:8888/saveData
+Content-Type: application/x-www-form-urlencoded
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiYWl0c2kiLCJpYXQiOjE2NzgzNzM3MDYsInNjb3BlIjoiQURNSU4ifQ.oCMSBu4ZF3kblo1Ifc6efQasgH05fZp0SkO7EiO9dx4Gx_3QURkHcr4tA6HoRW5glQruzgyRy5lzpwVmIIVhN3x2hq2U0hJn3qdLsImIpK75J8F3i3g90CfprvjsS7IJ-99Iw_j_NuSsuBGUM3wk4dA1wyuys_YE3kYUGfKDOTdjR-0yAh3GAjZc6-oLFfx53qyAvxEFSdRjG2GAlqziekeCPuiygfgQZSY9bYVxf58kNsuiLheCf6UdfYDGyJ998oMNqVB5-IN7oByisV-u_6lm9kIygR3durQ1shXOdJ1ZSazry4E6BvlIrY3P_K9KzLzaKXg90tv333RD5po9WQ
+Content-Length: 14
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+data=yvayztdfd
+
+<> 2023-03-09T155458.200.json
+
+###
+
+POST http://localhost:8888/saveData
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiYWl0c2kiLCJpYXQiOjE2NzgzNzM3MDYsInNjb3BlIjoiQURNSU4ifQ.oCMSBu4ZF3kblo1Ifc6efQasgH05fZp0SkO7EiO9dx4Gx_3QURkHcr4tA6HoRW5glQruzgyRy5lzpwVmIIVhN3x2hq2U0hJn3qdLsImIpK75J8F3i3g90CfprvjsS7IJ-99Iw_j_NuSsuBGUM3wk4dA1wyuys_YE3kYUGfKDOTdjR-0yAh3GAjZc6-oLFfx53qyAvxEFSdRjG2GAlqziekeCPuiygfgQZSY9bYVxf58kNsuiLheCf6UdfYDGyJ998oMNqVB5-IN7oByisV-u_6lm9kIygR3durQ1shXOdJ1ZSazry4E6BvlIrY3P_K9KzLzaKXg90tv333RD5po9WQ
+Content-Length: 25
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "data": "yvayztdfd"
+}
+
+<> 2023-03-09T155344.200.json
+
+###
+
+GET http://localhost:8888/saveData
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiYWl0c2kiLCJpYXQiOjE2NzgzNzM3MDYsInNjb3BlIjoiQURNSU4ifQ.oCMSBu4ZF3kblo1Ifc6efQasgH05fZp0SkO7EiO9dx4Gx_3QURkHcr4tA6HoRW5glQruzgyRy5lzpwVmIIVhN3x2hq2U0hJn3qdLsImIpK75J8F3i3g90CfprvjsS7IJ-99Iw_j_NuSsuBGUM3wk4dA1wyuys_YE3kYUGfKDOTdjR-0yAh3GAjZc6-oLFfx53qyAvxEFSdRjG2GAlqziekeCPuiygfgQZSY9bYVxf58kNsuiLheCf6UdfYDGyJ998oMNqVB5-IN7oByisV-u_6lm9kIygR3durQ1shXOdJ1ZSazry4E6BvlIrY3P_K9KzLzaKXg90tv333RD5po9WQ
+Content-Length: 23
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"data": "yvayztdfd"
+}
+
+<> 2023-03-09T155230.200.json
+
+###
+
+GET http://localhost:8888/saveData
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiYWl0c2kiLCJpYXQiOjE2NzgzNzM3MDYsInNjb3BlIjoiQURNSU4ifQ.oCMSBu4ZF3kblo1Ifc6efQasgH05fZp0SkO7EiO9dx4Gx_3QURkHcr4tA6HoRW5glQruzgyRy5lzpwVmIIVhN3x2hq2U0hJn3qdLsImIpK75J8F3i3g90CfprvjsS7IJ-99Iw_j_NuSsuBGUM3wk4dA1wyuys_YE3kYUGfKDOTdjR-0yAh3GAjZc6-oLFfx53qyAvxEFSdRjG2GAlqziekeCPuiygfgQZSY9bYVxf58kNsuiLheCf6UdfYDGyJ998oMNqVB5-IN7oByisV-u_6lm9kIygR3durQ1shXOdJ1ZSazry4E6BvlIrY3P_K9KzLzaKXg90tv333RD5po9WQ
+Content-Length: 23
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"data": "yvayztdfd"
+}
+
+<> 2023-03-09T155026.500.json
+
+###
+
+POST http://localhost:8888/token
+Accept: application/json
+Authorization: Basic YWl0c2k6YWl0c2k=
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T155006.200.json
+
+###
+
+POST http://localhost:8888/token
+Accept: application/json
+Authorization: Basic YWl0c2k6YWl0c2k=
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8888/saveData
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiaGFtemEiLCJpYXQiOjE2NzgzNjQxMzcsInNjb3BlIjoiVVNFUiJ9.S4uDo_cvP65FHj14vVyPWfxbe94bjGi2oPp9a-_XtBTzi_7l4j-VJOejhU9CwlmjSWbUXRFx6wh6PgpmmEhrRKAXSxhzR6QzuDyN5iGBow5eSZ-TBgzY5NNZ3IBy-yF4DVdE4VdbRt6X2dY_FK9clYSMgeaa7pbPRY2yQpFtkEoy7248W_uTzgNfsUJIYiQIIZT65ZO0BdFHZrNNSAfAxlub08BSRt71cGaHq7biaCCstIrU0dOKMk65KjmXklNVhQclk68mYP0OPR-tsn7CZI344CwYKfbLeybgto4y5RpQsQIJGhyRtWTxmkvihaRl6S9NZ7H62r-6XETnJULHeg
+Content-Length: 23
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"data": "yvayztdfd"
+}
+
+###
+
+GET http://localhost:8888/saveData
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiaGFtemEiLCJpYXQiOjE2NzgzNjQxMzcsInNjb3BlIjoiVVNFUiJ9.S4uDo_cvP65FHj14vVyPWfxbe94bjGi2oPp9a-_XtBTzi_7l4j-VJOejhU9CwlmjSWbUXRFx6wh6PgpmmEhrRKAXSxhzR6QzuDyN5iGBow5eSZ-TBgzY5NNZ3IBy-yF4DVdE4VdbRt6X2dY_FK9clYSMgeaa7pbPRY2yQpFtkEoy7248W_uTzgNfsUJIYiQIIZT65ZO0BdFHZrNNSAfAxlub08BSRt71cGaHq7biaCCstIrU0dOKMk65KjmXklNVhQclk68mYP0OPR-tsn7CZI344CwYKfbLeybgto4y5RpQsQIJGhyRtWTxmkvihaRl6S9NZ7H62r-6XETnJULHeg
+Content-Length: 23
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"data": "yvayztdfd"
+}
+
+###
+
+GET http://localhost:8888/saveData
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiaGFtemEiLCJpYXQiOjE2NzgzNjQxMzcsInNjb3BlIjoiVVNFUiJ9.S4uDo_cvP65FHj14vVyPWfxbe94bjGi2oPp9a-_XtBTzi_7l4j-VJOejhU9CwlmjSWbUXRFx6wh6PgpmmEhrRKAXSxhzR6QzuDyN5iGBow5eSZ-TBgzY5NNZ3IBy-yF4DVdE4VdbRt6X2dY_FK9clYSMgeaa7pbPRY2yQpFtkEoy7248W_uTzgNfsUJIYiQIIZT65ZO0BdFHZrNNSAfAxlub08BSRt71cGaHq7biaCCstIrU0dOKMk65KjmXklNVhQclk68mYP0OPR-tsn7CZI344CwYKfbLeybgto4y5RpQsQIJGhyRtWTxmkvihaRl6S9NZ7H62r-6XETnJULHeg
+Content-Length: 23
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"data": "yvayztdfd"
+}
+
+<> 2023-03-09T154726.404.json
+
+###
+
+GET http://localhost:8888/dataTest
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiaGFtemEiLCJpYXQiOjE2NzgzNjQxMzcsInNjb3BlIjoiVVNFUiJ9.S4uDo_cvP65FHj14vVyPWfxbe94bjGi2oPp9a-_XtBTzi_7l4j-VJOejhU9CwlmjSWbUXRFx6wh6PgpmmEhrRKAXSxhzR6QzuDyN5iGBow5eSZ-TBgzY5NNZ3IBy-yF4DVdE4VdbRt6X2dY_FK9clYSMgeaa7pbPRY2yQpFtkEoy7248W_uTzgNfsUJIYiQIIZT65ZO0BdFHZrNNSAfAxlub08BSRt71cGaHq7biaCCstIrU0dOKMk65KjmXklNVhQclk68mYP0OPR-tsn7CZI344CwYKfbLeybgto4y5RpQsQIJGhyRtWTxmkvihaRl6S9NZ7H62r-6XETnJULHeg
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T154412.200.json
+
+###
+
+GET http://localhost:8888/dataTest
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiaGFtemEiLCJpYXQiOjE2NzgzNjQxMzcsInNjb3BlIjoiVVNFUiJ9.S4uDo_cvP65FHj14vVyPWfxbe94bjGi2oPp9a-_XtBTzi_7l4j-VJOejhU9CwlmjSWbUXRFx6wh6PgpmmEhrRKAXSxhzR6QzuDyN5iGBow5eSZ-TBgzY5NNZ3IBy-yF4DVdE4VdbRt6X2dY_FK9clYSMgeaa7pbPRY2yQpFtkEoy7248W_uTzgNfsUJIYiQIIZT65ZO0BdFHZrNNSAfAxlub08BSRt71cGaHq7biaCCstIrU0dOKMk65KjmXklNVhQclk68mYP0OPR-tsn7CZI344CwYKfbLeybgto4y5RpQsQIJGhyRtWTxmkvihaRl6S9NZ7H62r-6XETnJULHeg
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T131127.200.json
+
+###
+
+POST http://localhost:8888/dataTest
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiaGFtemEiLCJpYXQiOjE2NzgzNjQxMzcsInNjb3BlIjoiVVNFUiJ9.S4uDo_cvP65FHj14vVyPWfxbe94bjGi2oPp9a-_XtBTzi_7l4j-VJOejhU9CwlmjSWbUXRFx6wh6PgpmmEhrRKAXSxhzR6QzuDyN5iGBow5eSZ-TBgzY5NNZ3IBy-yF4DVdE4VdbRt6X2dY_FK9clYSMgeaa7pbPRY2yQpFtkEoy7248W_uTzgNfsUJIYiQIIZT65ZO0BdFHZrNNSAfAxlub08BSRt71cGaHq7biaCCstIrU0dOKMk65KjmXklNVhQclk68mYP0OPR-tsn7CZI344CwYKfbLeybgto4y5RpQsQIJGhyRtWTxmkvihaRl6S9NZ7H62r-6XETnJULHeg
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T131102.405.json
+
+###
+
+POST http://localhost:8888/token
+Accept: application/json
+Authorization: Basic aGFtemE6aGFtemE=
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T131037.200.json
+
+###
+
+POST http://localhost:8888/token
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiaGFtemEiLCJpYXQiOjE2NzgzNjM4OTQsInNjb3BlIjoiVVNFUiJ9.L2vy8L10-cl2iMOa9ySXCVXaQIAeKEJ8fQ-JBqcsa19BeCCbymEmIs_1OBX-wpnCLmZzeuKM7xwy8F0xjO9LJhhJYjWvhmLZhIQ2G0N_BCkHxsz4_dKB5oSj0wkkZnYXnqGcqgfxFCBgEK-g7ZfNd_lXdLo_yren9UK9dJteugFI1XSubvCzAJLpD90_Agzo3dWViAL8JpA_iW9hMFO6aU6jFKx2y9Q-8jHv1DOiU0tubaFAmqRwhQhwzkbHH8qcTnYHpcLjlIVfbDcsXMaFeZ4J-h15qDb-EJkql3oZtcUqPwnQwM1_UUyUiwpnDHGIPImFQ3H58RZVAdglfcktAw
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T130703.200.json
+
+###
+
+POST http://localhost:8888/token
+Accept: application/json
+Authorization: Basic aGFtemE6aGFtemE=
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T130634.200.json
+
+###
+
+GET http://localhost:8888/dataTest
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWN1cml0eS1zZXJ2aWNlIiwic3ViIjoiaGFtemEiLCJpYXQiOjE2NzgzNjM2MDksInNjb3BlIjoiVVNFUiJ9.eseG4S0iTtOt42YwnvA4OZFlu3JzmBDff2bFLB4gSgno0LeP4gsI0QKV71FERyH6wCjOT9E6tOEl0IW3pAajP3in_k8MkI-JCf-E_ML4p13KbyJAlG8Yj_Z-Jsgp2lyCam1ng5eEF6IzlTOynimp_FPqaW5vohzvYFooIdd3MasfIvOtixfLfnKIXNwJozT0lVhLwfzcorO4ESLLxHP-W6xuRzk3Q_O95ULcoEGKquh9ejLBj1iVYugrxly1zsBW-TNhx1uKevdgEb9NZkmeb7czj1Fhj16gY11EiUPmgqK_ph5cQ04a2gYu8C1K04p6_cFXDA_dJpuepMdjd_cBkg
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T130323.200.json
+
+###
+
+POST http://localhost:8888/token
+Accept: application/json
+Authorization: Basic aGFtemE6aGFtemE=
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T130149.200.json
+
+###
+
+POST http://localhost:8888/token
+Accept: application/json
+Authorization: Basic hamza:hamza
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:8888/token
+Accept: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8888/dataTest
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T103354.200.json
+
+###
+
+GET http://localhost:8888/dataTest
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T103344.200.json
+
+###
+
+GET http://localhost:8888/dataTest
+Accept: application/json
+Authorization: Basic hamza:hamzaqsc
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8888/dataTest
+Accept: application/json
+Authorization: Basic hamza:hamza
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
