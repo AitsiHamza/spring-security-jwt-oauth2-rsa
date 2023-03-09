@@ -1,0 +1,12 @@
+{
+  "authorities": [
+    {
+      "authority": "SCOPE_ADMIN"
+    },
+    {
+      "authority": "SCOPE_MANAGER"
+    }
+  ],
+  "username": "aitsi",
+  "message": "hello"
+}
