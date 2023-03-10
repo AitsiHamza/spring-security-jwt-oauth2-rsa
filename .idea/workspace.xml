@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b7644cc-1acc-4347-94fc-db4beda577f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/customer-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/example/customerservice/CustomerServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/resources/certifs/public.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/test/java/com/example/customerservice/CustomerServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security-service/src/main/java/com/example/securityservice/web/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/security-service/src/main/java/com/example/securityservice/web/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security-service/src/main/java/com/example/securityservice/config/SecrurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/security-service/src/main/java/com/example/securityservice/config/SecrurityConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +38,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1678408387" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1678408386" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="HttpClientSelectedEnvironments">
     <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
   </component>
@@ -31,6 +70,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -54,13 +98,17 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "graalvm-ce-17",
-    "last_opened_file_path": "C:/Users/a899901/Desktop/atos/projects/spring security projects/my-ecom-app",
+    "last_directory_selection": "C:/Users/a899901/Desktop/atos/projects/spring security projects/my-ecom-app/customer-service/src/main/java/com/example/customerservice",
+    "last_opened_file_path": "C:/Users/a899901/Desktop/atos/projects/spring security projects/my-ecom-app/customer-service/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "eba480707dd71a46d66ae8bfc0dd1d95",
     "vue.rearranger.settings.migration": "true"
   }
@@ -70,11 +118,17 @@
       <recent name="com.example.securityservice.web" />
       <recent name="com.example.securityservice.config" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a899901\Desktop\atos\projects\spring security projects\my-ecom-app\customer-service\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\a899901\Desktop\atos\projects\spring security projects\my-ecom-app\my-ecom-app\security-service\src\main\resources\certifs" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.customerservice.config" />
+    </key>
   </component>
-  <component name="RunManager" selected="Maven.security-service [clean,install]">
+  <component name="RunManager" selected="Spring Boot.CustomerServiceApplication">
     <configuration name="security-service [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -116,6 +170,13 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="customer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.customerservice.CustomerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SecurityServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="security-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.securityservice.SecurityServiceApplication" />
@@ -131,6 +192,7 @@
     </configuration>
     <list>
       <item itemvalue="Maven.security-service [clean,install]" />
+      <item itemvalue="Spring Boot.CustomerServiceApplication" />
       <item itemvalue="Spring Boot.SecurityServiceApplication" />
     </list>
     <recent_temporary>
@@ -150,7 +212,7 @@
       <workItem from="1678352145009" duration="4389000" />
       <workItem from="1678358654995" duration="7826000" />
       <workItem from="1678391185136" duration="5821000" />
-      <workItem from="1678397061406" duration="6171000" />
+      <workItem from="1678397061406" duration="10924000" />
     </task>
     <servers />
   </component>
@@ -160,6 +222,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/security-service" />
+      <path value="$PROJECT_DIR$/customer-service" />
     </ignored-roots>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">

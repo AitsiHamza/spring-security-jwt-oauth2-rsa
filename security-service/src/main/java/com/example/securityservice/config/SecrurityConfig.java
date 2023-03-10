@@ -57,6 +57,8 @@ public class SecrurityConfig {
     }
 
 
+    //TODO: replace InMemoryUserDetailsManager with UserDetailsService
+    //TODO: create class User and Role ...
     @Bean
     public InMemoryUserDetailsManager inMemoryUserDetailsManager() {
         /**{noop} means that the password will be saved in plain text*/
